@@ -1,5 +1,4 @@
 
-Here’s a creative and engaging README file for your gamified portfolio project:
 
 🎮 Gamified Portfolio 🌟
 Welcome to my Gamified Portfolio! 🚀 This interactive project transforms my portfolio into a fun and engaging game, showcasing my skills and projects in a unique way. Dive into the game to explore my work through interactive elements and exciting challenges!
